@@ -1,2 +1,2 @@
-# Coursera-Test
-Course of Web Testing
+# Testing-Web
+Web Testing
